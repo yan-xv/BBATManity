@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="title_activity_maps">BBATManity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">настройки</string>
+    <string name="settings_city">settings_city</string>
+    <string name="city_list_key">city_list_key</string>
+    <string name="city_list_default">Минск</string>
+    <string name="atm_switcher_key">atm_switcher_key</string>
+    <string name="infobox_switcher_key">infobox_switcher_key</string>
+    <string name="filial_switcher_key">filial_switcher_key</string>
+    <string name="city_list_title">Город</string>
+    <string name="сategory_object_title">Город</string>
+    <string name="atm_switcher_title">ATM</string>
+    <string name="infobox_switcher_title">Инфокиоски</string>
+    <string name="filial_switcher_title">Отделения</string>
+    <string name="openMap">Открыть карту</string>
+</resources>

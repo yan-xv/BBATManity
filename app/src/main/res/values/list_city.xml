@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_city">
+        <item>"Минск"</item>
+        <item>"Брест"</item>
+        <item>"Витебск"</item>
+        <item>"Гомель"</item>
+        <item>"Гродно"</item>
+        <item>"Могилев"</item>
+    </string-array>
+</resources>

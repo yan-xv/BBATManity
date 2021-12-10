@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <DropDownPreference
+        app:entries="@array/list_city"
+        app:entryValues="@array/list_city"
+        app:key="@string/city_list_key"
+        app:title="@string/city_list_title"
+        app:useSimpleSummaryProvider="true"/>
+
+    <PreferenceCategory app:title="Видимость объектов на карте">
+
+        <SwitchPreference
+            app:key="@string/atm_switcher_key"
+            app:defaultValue="true"
+            app:title="@string/atm_switcher_title" />
+
+        <SwitchPreference
+            app:key="@string/infobox_switcher_key"
+            app:title="@string/infobox_switcher_title" />
+
+        <SwitchPreference
+            app:key="@string/filial_switcher_key"
+            app:title="@string/filial_switcher_title" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

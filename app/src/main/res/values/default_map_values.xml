@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_target_lat">52.425163</string>
+    <string name="camera_target_lng">31.015039</string>
+    <string name="camera_target_zoom">15</string>
+</resources>
